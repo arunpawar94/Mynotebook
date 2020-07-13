@@ -1,0 +1,43 @@
+.wel {font-family: Lucida Calligraphy;}
+.Logform {position: absolute;
+padding: 60px 40px;
+
+left: 33%;
+top: 35%;
+background:linear-gradient(to bottom, #9a8cd4 5%, #d6eeff 100%);
+background-color: #9a8cd4;
+text-align: center;
+width:30%;
+height:20%;border-radius:10px;
+box-shadow:0 0 15px 10px rgba(10,10,20,20.06);
+} .ins{font-size: 20px;
+  padding:15px;background-color: pink;
+  border:1.5px outset blue;width:80%;border-radius:20px;
+  height:35%;
+}
+.myButton {margin: 10px 40px;
+  float:left;
+	box-shadow: 0px 4px 6px 3px #5531cc;
+	background:linear-gradient(to bottom, #a0dbae 5%, #3f0fff 100%);
+	background-color:#a0dbae;
+	border-radius:32px;
+	border:1px solid #192dab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	padding:4px 19px;
+	text-decoration:none;
+	text-shadow:-2px 2px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #3f0fff 5%, #a0dbae 100%);
+	background-color:#3f0fff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bac{background:linear-gradient(to bottom, #0ff2fa 5%, #ffffff 100%);
+	background-color:#0ff2fa;}
