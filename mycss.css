@@ -3,5 +3,6 @@ body  {background-image:url('bg.jpg');
   margin: 0;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
-   background-repeat: no-repeat;background-size: cover;position: relative;
+   background-repeat: no-repeat;
+   background-size: cover;position: relative;
 }
